@@ -1,0 +1,20 @@
+body{
+    background-color: #032a32;
+}
+h1{
+    color:white;
+    font-size:40px;
+}
+p{
+    color:white;
+    font-size:26px;
+    
+}
+.sol_container{
+    margin-left:150px;
+    margin-top:100px;
+}
+.sol_container_1{
+    width: 90%;
+    height: 100%;
+}

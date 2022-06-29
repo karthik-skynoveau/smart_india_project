@@ -1,0 +1,30 @@
+body{
+    background-color: #032a32;
+}
+.gallery{
+    
+    flex-wrap:wrap;
+   
+} 
+h1{
+    color:white;
+    text-align:center;
+    font-size:40px;
+} 
+.container{
+    width: 80%;
+    margin:0px auto;
+} 
+.gallery-item img{
+    width:300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 7px;
+     
+}
+p{
+    color:white;
+    font-size:30px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
